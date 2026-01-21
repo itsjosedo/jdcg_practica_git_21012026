@@ -1,0 +1,2 @@
+# jdcg_practica_git_21012026
+Primera actividad gamificacion
